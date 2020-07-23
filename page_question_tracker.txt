@@ -1,6 +1,3 @@
-56
+text: 58
+solution: 
 
-Where are kernal methods used? In loss functions? 
-Explain formula areound log likelyhood error?
-Why do radical basis functions matter?
-Am I supposed to be understanding every matematical breakdown?
