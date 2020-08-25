@@ -1,1 +1,0 @@
-https://www.kaggle.com/budincsevity/szeged-weather?select=weatherHistory.csv
