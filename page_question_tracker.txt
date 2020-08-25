@@ -1,3 +1,6 @@
-text: 71
-solution: 
+Page Number: 71
+
+Questions:
+
+1. So the standard deviation of a weight in linear regression can give us the t-statistic which can give us the p-value which can provide insight into the null-hypothesis which tells us if that weight should be - or not?
 
